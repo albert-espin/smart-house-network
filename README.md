@@ -6,5 +6,6 @@ Study of the usage and functionality of multiple network protocols of the TCP/IP
 | **Language**   | Catalan |
 | **Authors** | Albert Espín, Pau Sanchez and Guillem Casassas |
 | **Date**  | January 2017  |
+| **License** |  Creative Commons Attribution, Non-Commercial, Non-Derivative |
 
 ![](network.png)
